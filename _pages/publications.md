@@ -20,11 +20,15 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Journal Papers:
 
-[J2] **S. Nath**, I. Akingeneye, J. Wu, and Z. Han, ["Quickest Detection of False Data Injection Attacks in Smart Grid with Dynamic Models"](https://ieeexplore.ieee.org/abstract/document/8808884),  in IEEE Journal of Emerging and Selected Topics in Power Electronics, Aug. 2019 (in press).
+[J3] **S. Nath**, J. Wu, Y. Zhao, and W. Qiao, ["Low Latency Bearing Fault Detection of Direct-drive Wind Turbines Using Stator Current](https://ieeexplore.ieee.org/document/9020072), in *IEEE Access*, Mar. 2020 (to be published).
 
-[J1] **S. Nath**, J. Wu, and J. Yang, ["Delay and Energy Efficiency Tradeoff for Information Pushing System"](https://ieeexplore.ieee.org/document/8382314/), in IEEE Transactions on Green Communications and Networking, vol. 2, no. 4, pp. 1027-1040, Dec. 2018. 
+[J2] **S. Nath**, I. Akingeneye, J. Wu, and Z. Han, ["Quickest Detection of False Data Injection Attacks in Smart Grid with Dynamic Models"](https://ieeexplore.ieee.org/abstract/document/8808884),  in *IEEE Journal of Emerging and Selected Topics in Power Electronics*, Aug. 2019 (to be published).
+
+[J1] **S. Nath**, J. Wu, and J. Yang, ["Delay and Energy Efficiency Tradeoff for Information Pushing System"](https://ieeexplore.ieee.org/document/8382314/), in *IEEE Transactions on Green Communications and Networking*, vol. 2, no. 4, pp. 1027-1040, Dec. 2018. 
 
 ## Conference Papers:
+
+[C8] **S. Nath**, Y. Li, J. Wu, and P. Fan, "Multi-user Multi-channel Computation Offloading and Resource Allocation for Mobile Edge Computing", in *IEEE Intern. Commun. Conf. (ICC)*, 7-11 Jun. 2020, Dublin, Ireland (to be presented).
 
 [C7] **S. Nath**, J. Wu and H. Lin, ["Optimum Multicast Scheduling in Delay-Constrained Content-Centric Wireless Networks"](https://ieeexplore.ieee.org/abstract/document/8761690), in *Proc. IEEE Intern. Commun. Conf. (ICC)*, 20-24 May 2019, Shanghai, China.
 
@@ -40,14 +44,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
  
  [C1] R. Nath, F. S. Rahman,  **S. Nath**, S. Basak, S. I. Audin, and S. A. Fattah, ["Lip contour extraction scheme using morphological reconstruction based segmentation"](https://ieeexplore.ieee.org/document/6919175), in *Proc. International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*, 10-12 April 2014, Dhaka, Bangladesh.
  
- ## Manuscripts in Review:
+ ## Manuscripts under Review:
  
- [R3] **S. Nath**, J. Wu, Y. Zhao, and W. Qiao, "Low Latency Bearing Fault Detection of Direct-drive Wind Turbines Using Stator Current, in *IEEE Access*, Nov. 2019.
+ [R2] **S. Nath** and J. Wu, “Quickest Change Point Detection with Multiple Post-change Models” in *Journal of Sequential Analysis: Design Methods and Applications*, Jan. 2020.
  
- [R2] **S. Nath** and J. Wu, “Quickest Change Point Detection with Multiple Post-change Models” in *Journal of Sequential Analysis: Design Methods and Applications*, Oct. 2019.
- 
- [R1] **S. Nath**, Y. Li, J. Wu, and P. Fan, "Multi-user Multi-channel Computation Offloading and Resource Allocation for Mobile Edge Computing", in *IEEE Intern. Commun. Conf. (ICC)*, 7-11 Jun. 2020, Dublin, Ireland.
- 
- ### Manuscripts under Preparation:
- 
- [P1] **S. Nath** and J. Wu, "Online Battery Charge Scheduling Policy for Grid-connected Photo-Voltaic Systems".
+ [R1] **S. Nath** and J. Wu, "Online Battery Charge Scheduling Policy for Grid-connected Photo-Voltaic Systems" in *Journal of Renewable Energy*, Mar. 2020.
