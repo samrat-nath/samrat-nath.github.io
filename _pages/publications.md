@@ -20,7 +20,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Journal Papers:
 
-[J3] **S. Nath**, J. Wu, Y. Zhao, and W. Qiao, ["Low Latency Bearing Fault Detection of Direct-drive Wind Turbines Using Stator Current"](https://ieeexplore.ieee.org/document/9020072), in *IEEE Access*, vol. 8, pp. 44163-44174, 2020, Mar. 2020.
+[J3] **S. Nath**, J. Wu, Y. Zhao, and W. Qiao, ["Low Latency Bearing Fault Detection of Direct-drive Wind Turbines Using Stator Current"](https://ieeexplore.ieee.org/document/9020072), in *IEEE Access*, vol. 8, pp. 44163-44174, Mar. 2020.
 
 [J2] **S. Nath**, I. Akingeneye, J. Wu, and Z. Han, ["Quickest Detection of False Data Injection Attacks in Smart Grid with Dynamic Models"](https://ieeexplore.ieee.org/abstract/document/8808884),  in *IEEE Journal of Emerging and Selected Topics in Power Electronics*, Aug. 2019 (to be published).
 
