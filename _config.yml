@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Samrat Nath"
+title                    : "Samrat Nath, Ph.D."
 title_separator          : "-"
 name                     : &name "Samrat Nath"
-description              : &description "Ph.D. Candidate at University of Arkansas"
+description              : &description "Data Scientist at Walmart"
 url                      : https://samrat-nath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samrat-nath.github.io"
@@ -83,9 +83,9 @@ analytics:
 author:
   name             : "Samrat Nath"
   avatar           : "rsz_pro_pic.jpg"   #"pro_pic_career_fair-2019-min.jpg"
-  bio              : "Ph.D. Candidate and Data Science Enthusiast"
+  bio              : "Data Scientist"
   location         : #"Arkansas, USA"
-  employer         : "University of Arkansas"
+  employer         : "Walmart"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bK16_G4AAAAJ&hl=en"
   email            : "samratnath4u@gmail.com"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "samrat-nath-2968b49a/"
+  linkedin         : "https://www.linkedin.com/in/samrat-nath-ph-d-2968b49a/"
   orcid            : "https://orcid.org/0000-0002-3117-8560"
   pinterest        :
   soundcloud       :
