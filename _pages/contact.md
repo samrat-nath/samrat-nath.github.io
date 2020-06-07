@@ -6,7 +6,7 @@ author_profile: true
 ---
 Contact information is below, including email and various web services.  
 
-* E-mail: samratnath4u [at] gmail [dot] com; snath [at] uark [dot] edu
+* E-mail: samratnath4u [at] gmail [dot] com
 * Mail: 655 Whitham Ave, Apt 23, Fayetteville, AR 72701, USA. 
 * Cell: +1 (347) 398-3686
 * [LinkedIn](https://www.linkedin.com/in/samrat-nath-ph-d-2968b49a/)
