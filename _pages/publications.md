@@ -20,15 +20,17 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Journal Papers:
 
+[J4] **S. Nath** and J. Wu, “Quickest Change Point Detection with Multiple Post-change Models” in *Journal of Sequential Analysis: Design Methods and Applications*, Jan. 2020 (Accepted).
+
 [J3] **S. Nath**, J. Wu, Y. Zhao, and W. Qiao, ["Low Latency Bearing Fault Detection of Direct-drive Wind Turbines Using Stator Current"](https://ieeexplore.ieee.org/document/9020072), in *IEEE Access*, vol. 8, pp. 44163-44174, Mar. 2020.
 
-[J2] **S. Nath**, I. Akingeneye, J. Wu, and Z. Han, ["Quickest Detection of False Data Injection Attacks in Smart Grid with Dynamic Models"](https://ieeexplore.ieee.org/abstract/document/8808884),  in *IEEE Journal of Emerging and Selected Topics in Power Electronics*, Aug. 2019 (to be published).
+[J2] **S. Nath**, I. Akingeneye, J. Wu, and Z. Han, ["Quickest Detection of False Data Injection Attacks in Smart Grid with Dynamic Models"](https://ieeexplore.ieee.org/abstract/document/8808884),  in *IEEE Journal of Emerging and Selected Topics in Power Electronics*, Aug. 2019.
 
 [J1] **S. Nath**, J. Wu, and J. Yang, ["Delay and Energy Efficiency Tradeoff for Information Pushing System"](https://ieeexplore.ieee.org/document/8382314/), in *IEEE Transactions on Green Communications and Networking*, vol. 2, no. 4, pp. 1027-1040, Dec. 2018. 
 
 ## Conference Papers:
 
-[C8] **S. Nath**, Y. Li, J. Wu, and P. Fan, "Multi-user Multi-channel Computation Offloading and Resource Allocation for Mobile Edge Computing", in *IEEE Intern. Commun. Conf. (ICC)*, 7-11 Jun. 2020, Dublin, Ireland (to be presented).
+[C8] **S. Nath**, Y. Li, J. Wu, and P. Fan, "Multi-user Multi-channel Computation Offloading and Resource Allocation for Mobile Edge Computing", in *IEEE Intern. Commun. Conf. (ICC)*, 7-11 Jun. 2020, Dublin, Ireland.
 
 [C7] **S. Nath**, J. Wu and H. Lin, ["Optimum Multicast Scheduling in Delay-Constrained Content-Centric Wireless Networks"](https://ieeexplore.ieee.org/abstract/document/8761690), in *Proc. IEEE Intern. Commun. Conf. (ICC)*, 20-24 May 2019, Shanghai, China.
 
@@ -46,6 +48,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
  
  ## Manuscripts under Review:
  
- [R2] **S. Nath** and J. Wu, “Quickest Change Point Detection with Multiple Post-change Models” in *Journal of Sequential Analysis: Design Methods and Applications*, Jan. 2020.
+ [R3] **S. Nath** and J. Wu, "Dynamic Computation Offloading and Resource Allocation for Multi-user Mobile Edge Computing", in *IEEE Global Communications Conf. (Globecom)*, 7-11 Dec. 2020, Taipei, Taiwan.
  
- [R1] **S. Nath** and J. Wu, "Online Battery Charge Scheduling Policy for Grid-connected Photo-Voltaic Systems" in *Journal of Renewable Energy*, Mar. 2020.
+ [R2] **S. Nath** and J. Wu, "Deep Reinforcement Learning for Dynamic Computation Offloading and Resource Allocation in Cache-assisted Mobile Edge Computing Systems" in *Intelligenet and Converged Networks*, May. 2020.
+ 
+ [R1] **S. Nath** and J. Wu, "Online Battery Charge Scheduling Policy for Grid-connected Photo-Voltaic Systems" in *Journal of Energy Storage*, May. 2020.
