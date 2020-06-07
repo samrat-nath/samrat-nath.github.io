@@ -16,7 +16,7 @@ Education
 - **Doctor of Philosophy (Ph.D.) in Electrical Engineering**
   - **Instituition:** University of Arkansas, Fayetteville, AR, USA.
   - **Date:** May 2020
-  - **Dissertation:** [Low Anomaly Detection with Imperfect Models](https://search.proquest.com/openview/338387f21af714b1e8b9adabce818bf4/1?pq-origsite=gscholar&cbl=18750&diss=y){:target="_blank"}
+  - **Dissertation:** [Low Latency Anomaly Detection with Imperfect Models](https://search.proquest.com/openview/338387f21af714b1e8b9adabce818bf4/1?pq-origsite=gscholar&cbl=18750&diss=y){:target="_blank"}
   - **Advisor:** [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/){:target="_blank"}
   - **CGPA:** 4.00/4.00 
   - **Courses:** Deep Learning, Statistical Inference, Computational Statistics, Multivariate Analysis, Regression, Time Series, Detection & Estimation, Wireless Communications
