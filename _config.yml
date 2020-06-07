@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Samrat Nath, Ph.D."
+  name             : "Samrat Nath"
   avatar           : "rsz_pro_pic.jpg"   #"pro_pic_career_fair-2019-min.jpg"
   bio              : "Data Scientist"
   location         : #"Arkansas, USA"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/samrat-nath-ph-d-2968b49a/"
+  linkedin         : "samrat-nath-ph-d-2968b49a/"
   orcid            : "https://orcid.org/0000-0002-3117-8560"
   pinterest        :
   soundcloud       :
