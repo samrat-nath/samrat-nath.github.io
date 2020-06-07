@@ -19,6 +19,6 @@ I am currently a Ph.D. candidate in the [Electrical Engineering Department](http
 
 Hi! I'm Samrat ('Sam'), originally from Bangladesh. I currently work at Walmart as a Data Scientist with the Real Estate Analytics team of Global Digital Solutions division. I received my Ph.D. degree in Electrical Engineering at the [University of Arkansas, Fayetteville](http://www.uark.edu/) on 2020, and completed my Bachelor of Science (B.Sc.) degree in Electrical and Electronics Engineering at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/) on 2014. During my doctorate research, I had the opportunity to work on different kinds of projects dealing with  Optimization, Machine Learning, Seuqntial Analysis, Statistical Signal Processing, Wireless Communication, Pattern Recognition among many other topics. For now, my goal is to have a stimulating research-centric career concentrated on data science. 
 
-I like travelling, cooking, binge-watching tv shows & animes. I love football and I'm a huge fan of Manchester United (GGMU). In this site, I've shared my academic and research experiences. Thanks for visiting my site!
+I like travelling, cooking, binge-watching tv shows and animes. I love football and I'm a huge fan of Manchester United (GGMU). Thanks for visiting my site!
 <img src='/images/colorado_mountaintop.jpg' width="972" height="409">
 *Image Location: 12000 ft at Rocky Mountain National Park, Estes Park, CO*
