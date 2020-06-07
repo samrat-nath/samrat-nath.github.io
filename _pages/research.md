@@ -5,7 +5,7 @@ excerpt: "Research"
 author_profile: true
 ---
 
-## University of Arkansas (Jan 2016 – Present)
+## University of Arkansas (Jan 2016 – May 2020)
 
 ### Low-latency Anomaly Detection: 
 - Main focus of my Ph.D. dissertation
@@ -19,7 +19,7 @@ author_profile: true
 - Proposed a periodic MDP-based online policy of battery charge scheduling for grid-connected photo-voltaic systems with the objective of minimizing the long-term energy cost purchased from the grid. 
 
 ### Mobile Edge Computing:
-- Presented a Deep Reinforcement Learning- based approach for optimal computation offloading and resource allocation in multi-user multi-channel mobile edge computing (MEC) systems using Deep Deterministic Policy Gradient (DDPG) algorithm. 
+- Presented a Deep Reinforcement Learning- based approach for optimal dynamic computation offloading and resource allocation in multi-user mobile edge computing (MEC) systems using Deep Deterministic Policy Gradient (DDPG) algorithm. 
 
 ## Bangladesh University of Engineering and Technology (Mar 2013 – Jul 2014)
 
