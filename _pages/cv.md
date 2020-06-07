@@ -15,8 +15,8 @@ Education
 ======
 - **Doctor of Philosophy (Ph.D.) in Electrical Engineering**
   - **Instituition:** University of Arkansas, Fayetteville, AR, USA.
-  - **Date:** May 2020 (expected)
-  - **Dissertation:** Quickest Change Detection with Imperfect Post-change Models
+  - **Date:** May 2020
+  - **Dissertation:** [Low Anomaly Detection with Imperfect Models] (https://search.proquest.com/openview/338387f21af714b1e8b9adabce818bf4/1?pq-origsite=gscholar&cbl=18750&diss=y)
   - **Advisor:** [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/){:target="_blank"}
   - **CGPA:** 4.00/4.00 
   - **Courses:** Deep Learning, Statistical Inference, Computational Statistics, Multivariate Analysis, Regression, Time Series, Detection & Estimation, Wireless Communications
@@ -45,7 +45,7 @@ Professional Experience
   - Supervisor: [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/){:target="_blank"}  
   - Performed research with focus on Optimization, Statistical Signal Processing, Machine Learning, and Wireless Communication with 
   simulations performed in MATLAB & Python.
-  - Published 2 journals and 4 conference papers so far.<br>
+  - Published 4 journals and 5 conference papers.<br>
   - Assisted in grading of udergraduate courses such as Systems and Signals, Probability and Stochastic Process, Communication Theory.
   - Instructed 50 students on average each year in MATLAB.  
 - **Walmart, Bentonville, Arkansas, USA (Jun 2019 – Aug 2019)**<br>
