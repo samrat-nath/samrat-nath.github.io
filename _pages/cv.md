@@ -40,7 +40,10 @@ Technical Skills
 
 Professional Experience
 ======
-- **University of Arkansas, Fayetteville, Arkansas, USA (Jan 2016 – Present)**<br>
+- **Walmart, Bentonville, Arkansas, USA (Jun 2020 – Present)**<br>
+*Data Analyst III, Global Business Service Digital Solutions*
+  - Working with the Real Estate Analytics Team under the supervision of [Noyle Christopher](https://www.linkedin.com/in/chrischristopherjr/){:target="_blank"}.
+- **University of Arkansas, Fayetteville, Arkansas, USA (Jan 2016 – May 2020)**<br>
 *Graduate Research & Teaching Assistant, Department of Electrical Engineering*
   - Supervisor: [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/){:target="_blank"}  
   - Performed research with focus on Optimization, Statistical Signal Processing, Machine Learning, and Wireless Communication with 
@@ -50,7 +53,7 @@ Professional Experience
   - Instructed 50 students on average each year in MATLAB.  
 - **Walmart, Bentonville, Arkansas, USA (Jun 2019 – Aug 2019)**<br>
 *Summer Intern Data Analyst, Global Business Service Digital Solutions*
-  - Supervisor: [Chris Christopher](https://www.linkedin.com/in/chrischristopherjr/){:target="_blank"}, Mentor: [Christopher Linn](https://www.linkedin.com/in/linnchris/){:target="_blank"}
+  - Supervisor: [Noyle Christopher](https://www.linkedin.com/in/chrischristopherjr/){:target="_blank"}, Mentor: [Christopher Linn](https://www.linkedin.com/in/linnchris/){:target="_blank"}
   - Developed an app using Alteryx for estimation & optimal allocation of maintenance budget in HVAC & Refrigeration sector of stores with Regression and Optimization models built in R.
   
 Research Experience
