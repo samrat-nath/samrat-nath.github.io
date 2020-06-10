@@ -5,7 +5,7 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-* E-mail: samratnath4u [at] gmail [dot] com
+* E-mail: samratnath4u [at] gmail [dot] com; samrat [dot] nath [at] walmart [dot] com
 * Mail: 655 Whitham Ave, Apt 23, Fayetteville, AR 72701, USA. 
 * Cell: +1 (347) 398-3686
 * [LinkedIn](https://www.linkedin.com/in/samrat-nath-ph-d-2968b49a/){:target="_blank"}
