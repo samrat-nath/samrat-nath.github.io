@@ -41,14 +41,15 @@ Technical Skills
 Professional Experience
 ======
 - **Walmart, Bentonville, Arkansas, USA (Jun 2020 – Present)**<br>
-*Data Analyst III, Global Business Service Digital Solutions*
-  - Working with the Real Estate Analytics Team under the supervision of [Noyle Christopher](https://www.linkedin.com/in/chrischristopherjr/){:target="_blank"}.
+*Data Scientist, CSRET-Digital Facilities*
+  - Supervisor: [Noyle Christopher](https://www.linkedin.com/in/chrischristopherjr/){:target="_blank"}
+  - Working with the Real Estate Analytics Team and developing data-driven solutions involving machine learining and optimization to drive business forward.
 - **University of Arkansas, Fayetteville, Arkansas, USA (Jan 2016 – May 2020)**<br>
 *Graduate Research & Teaching Assistant, Department of Electrical Engineering*
   - Supervisor: [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/){:target="_blank"}  
   - Performed research with focus on Optimization, Statistical Signal Processing, Machine Learning, and Wireless Communication with 
   simulations performed in MATLAB & Python.
-  - Published 4 journals and 5 conference papers.<br>
+  - Published 5 journals and 5 conference papers.<br>
   - Assisted in grading of udergraduate courses such as Systems and Signals, Probability and Stochastic Process, Communication Theory.
   - Instructed 50 students on average each year in MATLAB.  
 - **Walmart, Bentonville, Arkansas, USA (Jun 2019 – Aug 2019)**<br>
