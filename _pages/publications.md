@@ -20,7 +20,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Journal Papers:
 
-[J5] **S. Nath** and J. Wu, "Online Battery Charge Scheduling Policy for Grid-connected Photo-Voltaic Systems" in *Journal of Energy Storage*, Jul. 2020 (Accepted).
+[J5] **S. Nath** and J. Wu, "Online Battery Scheduling for Grid-connected Photo-Voltaic Systems" in *Journal of Energy Storage*, Jul. 2020 (Accepted).
 
 [J4] **S. Nath** and J. Wu, “Quickest Change Point Detection with Multiple Post-change Models” in *Journal of Sequential Analysis: Design Methods and Applications*, Jan. 2020 (Accepted).
 
