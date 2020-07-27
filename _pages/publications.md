@@ -20,6 +20,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Journal Papers:
 
+[J5] **S. Nath** and J. Wu, "Online Battery Charge Scheduling Policy for Grid-connected Photo-Voltaic Systems" in *Journal of Energy Storage*, Jul. 2020 (Accepted).
+
 [J4] **S. Nath** and J. Wu, “Quickest Change Point Detection with Multiple Post-change Models” in *Journal of Sequential Analysis: Design Methods and Applications*, Jan. 2020 (Accepted).
 
 [J3] **S. Nath**, J. Wu, Y. Zhao, and W. Qiao, ["Low Latency Bearing Fault Detection of Direct-drive Wind Turbines Using Stator Current"](https://ieeexplore.ieee.org/document/9020072), in *IEEE Access*, vol. 8, pp. 44163-44174, Mar. 2020.
@@ -48,8 +50,6 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
  
  ## Manuscripts under Review:
  
- [R3] **S. Nath** and J. Wu, "Dynamic Computation Offloading and Resource Allocation for Multi-user Mobile Edge Computing", in *IEEE Global Communications Conf. (Globecom)*, 7-11 Dec. 2020, Taipei, Taiwan.
+ [R2] **S. Nath** and J. Wu, "Dynamic Computation Offloading and Resource Allocation for Multi-user Mobile Edge Computing", in *IEEE Global Communications Conf. (Globecom)*, 7-11 Dec. 2020, Taipei, Taiwan.
  
- [R2] **S. Nath** and J. Wu, "Deep Reinforcement Learning for Dynamic Computation Offloading and Resource Allocation in Cache-assisted Mobile Edge Computing Systems" in *Intelligenet and Converged Networks*, May. 2020.
- 
- [R1] **S. Nath** and J. Wu, "Online Battery Charge Scheduling Policy for Grid-connected Photo-Voltaic Systems" in *Journal of Energy Storage*, May. 2020.
+ [R1] **S. Nath** and J. Wu, "Deep Reinforcement Learning for Dynamic Computation Offloading and Resource Allocation in Cache-assisted Mobile Edge Computing Systems" in *Intelligenet and Converged Networks*, May. 2020.
