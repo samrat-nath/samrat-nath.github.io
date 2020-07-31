@@ -32,7 +32,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Conference Papers:
 
-[C8] **S. Nath**, Y. Li, J. Wu, and P. Fan, "Multi-user Multi-channel Computation Offloading and Resource Allocation for Mobile Edge Computing", in *IEEE Intern. Commun. Conf. (ICC)*, 7-11 Jun. 2020, Dublin, Ireland.
+[C8] **S. Nath**, Y. Li, J. Wu, and P. Fan, ["Multi-user Multi-channel Computation Offloading and Resource Allocation for Mobile Edge Computing"](https://ieeexplore.ieee.org/document/9149124), in *IEEE Intern. Commun. Conf. (ICC)*, 7-11 Jun. 2020, Dublin, Ireland.
 
 [C7] **S. Nath**, J. Wu and H. Lin, ["Optimum Multicast Scheduling in Delay-Constrained Content-Centric Wireless Networks"](https://ieeexplore.ieee.org/abstract/document/8761690), in *Proc. IEEE Intern. Commun. Conf. (ICC)*, 20-24 May 2019, Shanghai, China.
 
