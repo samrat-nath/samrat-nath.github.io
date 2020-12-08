@@ -51,7 +51,3 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
  [C2] F. S. Rahman, R. Nath, **S. Nath**, S. Basak, S. I. Audin, and S. A. Fattah, ["Lip contour extraction scheme based on K-means clustering in different color planes"](https://ieeexplore.ieee.org/document/6850781){:target="_blank"}, in *Proc. IEEE International Conference on Informatics, Electronics & Vision (ICIEV)*, 23-24 May 2014, Dhaka, Bangladesh.
  
  [C1] R. Nath, F. S. Rahman,  **S. Nath**, S. Basak, S. I. Audin, and S. A. Fattah, ["Lip contour extraction scheme using morphological reconstruction based segmentation"](https://ieeexplore.ieee.org/document/6919175){:target="_blank"}, in *Proc. International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*, 10-12 April 2014, Dhaka, Bangladesh.
- 
- ## Manuscripts under Review:
- 
-
