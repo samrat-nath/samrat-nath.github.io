@@ -20,9 +20,11 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Journal Papers:
 
+[J6] **S. Nath** and J. Wu, "Deep Reinforcement Learning for Dynamic Computation Offloading and Resource Allocation in Cache-assisted Mobile Edge Computing Systems" in *Intelligenet and Converged Networks* (in press).
+
 [J5] **S. Nath** and J. Wu, ["Online Battery Scheduling for Grid-connected Photo-Voltaic Systems"](https://www.sciencedirect.com/science/article/pii/S2352152X20315504?dgcid=author){:target="_blank"} in *Journal of Energy Storage*, vol. 31, pp. 101713, Oct. 2020.
 
-[J4] **S. Nath** and J. Wu, “Quickest Change Point Detection with Multiple Post-change Models” in *Journal of Sequential Analysis: Design Methods and Applications*, Jan. 2020 (Accepted).
+[J4] **S. Nath** and J. Wu, “Quickest Change Point Detection with Multiple Post-change Models” in *Journal of Sequential Analysis: Design Methods and Applications* (in press).
 
 [J3] **S. Nath**, J. Wu, Y. Zhao, and W. Qiao, ["Low Latency Bearing Fault Detection of Direct-drive Wind Turbines Using Stator Current"](https://ieeexplore.ieee.org/document/9020072){:target="_blank"}, in *IEEE Access*, vol. 8, pp. 44163-44174, Mar. 2020.
 
@@ -32,7 +34,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Conference Papers:
 
-[C9] **S. Nath** and J. Wu, "Dynamic Computation Offloading and Resource Allocation for Multi-user Mobile Edge Computing", in *IEEE Global Communications Conf. (Globecom)*, 7-11 Dec. 2020, Taipei, Taiwan (Accepted).
+[C9] **S. Nath** and J. Wu, "Dynamic Computation Offloading and Resource Allocation for Multi-user Mobile Edge Computing", in *IEEE Global Communications Conf. (Globecom)*, 7-11 Dec. 2020, Taipei, Taiwan (Presented).
 
 [C8] **S. Nath**, Y. Li, J. Wu, and P. Fan, ["Multi-user Multi-channel Computation Offloading and Resource Allocation for Mobile Edge Computing"](https://ieeexplore.ieee.org/document/9149124){:target="_blank"}, in *IEEE Intern. Commun. Conf. (ICC)*, 7-11 Jun. 2020, Dublin, Ireland.
 
@@ -52,4 +54,4 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
  
  ## Manuscripts under Review:
  
- [R1] **S. Nath** and J. Wu, "Deep Reinforcement Learning for Dynamic Computation Offloading and Resource Allocation in Cache-assisted Mobile Edge Computing Systems" in *Intelligenet and Converged Networks*, May. 2020.
+
