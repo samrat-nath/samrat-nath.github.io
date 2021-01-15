@@ -20,7 +20,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Journal Papers:
 
-[J6] **S. Nath** and J. Wu, "Deep Reinforcement Learning for Dynamic Computation Offloading and Resource Allocation in Cache-assisted Mobile Edge Computing Systems" in *Intelligenet and Converged Networks* (in press).
+[J6] **S. Nath** and J. Wu, ["Deep Reinforcement Learning for Dynamic Computation Offloading and Resource Allocation in Cache-assisted Mobile Edge Computing Systems"](https://ieeexplore.ieee.org/document/9310745){:target="_blank"} in *Intelligenet and Converged Networks*, vol. 2, no. 1, pp. 181-198, Sep. 2020, doi: 10.23919/ICN.2020.0014.
 
 [J5] **S. Nath** and J. Wu, ["Online Battery Scheduling for Grid-connected Photo-Voltaic Systems"](https://www.sciencedirect.com/science/article/pii/S2352152X20315504?dgcid=author){:target="_blank"} in *Journal of Energy Storage*, vol. 31, pp. 101713, Oct. 2020.
 
