@@ -20,11 +20,11 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Journal Papers:
 
-[J6] **S. Nath** and J. Wu, ["Deep Reinforcement Learning for Dynamic Computation Offloading and Resource Allocation in Cache-assisted Mobile Edge Computing Systems"](https://ieeexplore.ieee.org/document/9310745){:target="_blank"} in *Intelligenet and Converged Networks*, vol. 1, no. 2, pp. 181-198, Sep. 2020, doi: 10.23919/ICN.2020.0014.
+[J6] **S. Nath** and J. Wu, [“Quickest Change Point Detection with Multiple Post-change Models”](https://www.tandfonline.com/doi/abs/10.1080/07474946.2020.1826795){:target="_blank"} in *Sequential Analysis: Design Methods and Applications*, vol. 39, pp. 543 - 562, Jan. 2021. 
 
-[J5] **S. Nath** and J. Wu, ["Online Battery Scheduling for Grid-connected Photo-Voltaic Systems"](https://www.sciencedirect.com/science/article/pii/S2352152X20315504?dgcid=author){:target="_blank"} in *Journal of Energy Storage*, vol. 31, pp. 101713, Oct. 2020.
+[J5] **S. Nath** and J. Wu, ["Deep Reinforcement Learning for Dynamic Computation Offloading and Resource Allocation in Cache-assisted Mobile Edge Computing Systems"](https://ieeexplore.ieee.org/document/9310745){:target="_blank"} in *Intelligenet and Converged Networks*, vol. 1, no. 2, pp. 181-198, Sep. 2020, doi: 10.23919/ICN.2020.0014.
 
-[J4] **S. Nath** and J. Wu, “Quickest Change Point Detection with Multiple Post-change Models” in *Journal of Sequential Analysis: Design Methods and Applications* (in press).
+[J4] **S. Nath** and J. Wu, ["Online Battery Scheduling for Grid-connected Photo-Voltaic Systems"](https://www.sciencedirect.com/science/article/pii/S2352152X20315504?dgcid=author){:target="_blank"} in *Journal of Energy Storage*, vol. 31, pp. 101713, Oct. 2020.
 
 [J3] **S. Nath**, J. Wu, Y. Zhao, and W. Qiao, ["Low Latency Bearing Fault Detection of Direct-drive Wind Turbines Using Stator Current"](https://ieeexplore.ieee.org/document/9020072){:target="_blank"}, in *IEEE Access*, vol. 8, pp. 44163-44174, Mar. 2020.
 
