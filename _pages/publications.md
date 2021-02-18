@@ -34,7 +34,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Conference Papers:
 
-[C9] **S. Nath** and J. Wu, "Dynamic Computation Offloading and Resource Allocation for Multi-user Mobile Edge Computing", in *IEEE Global Communications Conf. (Globecom)*, 7-11 Dec. 2020, Taipei, Taiwan (Presented).
+[C9] **S. Nath** and J. Wu, ["Dynamic Computation Offloading and Resource Allocation for Multi-user Mobile Edge Computing"](https://ieeexplore.ieee.org/document/9348161){:target="_blank"}, in *IEEE Global Communications Conf. (Globecom)*, 7-11 Dec. 2020, Taipei, Taiwan.
 
 [C8] **S. Nath**, Y. Li, J. Wu, and P. Fan, ["Multi-user Multi-channel Computation Offloading and Resource Allocation for Mobile Edge Computing"](https://ieeexplore.ieee.org/document/9149124){:target="_blank"}, in *IEEE Intern. Commun. Conf. (ICC)*, 7-11 Jun. 2020, Dublin, Ireland.
 
