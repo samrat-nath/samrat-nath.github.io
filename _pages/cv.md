@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Also available in PDF format](https://samrat-nath.github.io/files/CV_Samrat_Nath.pdf){:target="_blank"}
+[Also available in PDF format](https://samrat-nath.github.io/files/CV_Samrat_Nath_Nov21.pdf){:target="_blank"}
 
 Education
 ======
