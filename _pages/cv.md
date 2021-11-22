@@ -41,7 +41,7 @@ Technical Skills
 Professional Experience
 ======
 - **Walmart, Bentonville, Arkansas, USA (Jun 2020 – Present)**<br>
-*Data Scientist, CSRET-Digital Facilities*
+*Data Scientist, Core Services: Retail & Emerging Technologies - Merchant & Facilities Tech*
   - Supervisor: [Devanand Chintoju](https://www.linkedin.com/in/devanand-chintoju-3383bb22/){:target="_blank"}
   - Working with the Real Estate and Manufacturing Data Analytics Team and developing data-driven solutions to drive business forward.
   - Serving as a technical lead for data analytics projects involving machine learning and optimization.
