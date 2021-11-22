@@ -34,7 +34,7 @@ Technical Skills
 ======
 - *Programming Languages*: Python, R, MATLAB, C++, SQL 
 - *Machine Learning Frameworks*: PyTorch, NumPy, SciPy, Pandas, scikit-learn, Jupyter
-- *Engineering Applications*: Simulink, PSpice, Proteus, Tableau, Alteryx
+- *Engineering and Data Analytics Tool*: Simulink, PSpice, Proteus, Tableau, Alteryx, Dataiku
 - *Miscellaneous*:  Git, Bash, Linux, LATEX, MS Office, Prezi
 
 
@@ -42,14 +42,17 @@ Professional Experience
 ======
 - **Walmart, Bentonville, Arkansas, USA (Jun 2020 – Present)**<br>
 *Data Scientist, CSRET-Digital Facilities*
-  - Supervisor: [Noyle Christopher](https://www.linkedin.com/in/chrischristopherjr/){:target="_blank"}
-  - Working with the Real Estate Analytics Team and developing data-driven solutions involving machine learining and optimization to drive business forward.
+  - Supervisor: [Devanand Chintoju](https://www.linkedin.com/in/devanand-chintoju-3383bb22/){:target="_blank"}
+  - Working with the Real Estate and Manufacturing Data Analytics Team and developing data-driven solutions to drive business forward.
+  - Serving as a technical lead for data analytics projects involving machine learning and optimization.
+  - Developing, testing, and maintaining statistical models and analytical software tools.
+
 - **University of Arkansas, Fayetteville, Arkansas, USA (Jan 2016 – May 2020)**<br>
 *Graduate Research & Teaching Assistant, Department of Electrical Engineering*
   - Supervisor: [Dr. Jingxian Wu](https://wuj.hosted.uark.edu/){:target="_blank"}  
   - Performed research with focus on Optimization, Statistical Signal Processing, Machine Learning, and Wireless Communication with 
   simulations performed in MATLAB & Python.
-  - Published 5 journals and 5 conference papers.<br>
+  - Published 6 journal papers, 6 conference papers, and 1 book chapter.
   - Assisted in grading of udergraduate courses such as Systems and Signals, Probability and Stochastic Process, Communication Theory.
   - Instructed 50 students on average each year in MATLAB.  
 - **Walmart, Bentonville, Arkansas, USA (Jun 2019 – Aug 2019)**<br>
