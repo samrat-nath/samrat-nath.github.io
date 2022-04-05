@@ -37,7 +37,10 @@ Here, the vector **_x_** of length _n_ is the decision variable of the optimizat
 
 Let’s take a well-known combinatorial optimization problem called the [‘0–1 Knapsack Problem’](https://en.wikipedia.org/wiki/Knapsack_problem) for example. This problem appears in a wide variety of real-world decision-making processes, such as resource allocation, selection of investments and portfolios, etc.
 
-![](https://miro.medium.com/max/642/1*K9N-UjGvmnzIsq6MiR8bGA.png)[Image Credit: Wikipedia](https://en.wikipedia.org/wiki/Knapsack_problem)
+<p align="center">
+![](https://miro.medium.com/max/642/1*K9N-UjGvmnzIsq6MiR8bGA.png)
+[Image Credit: Wikipedia](https://en.wikipedia.org/wiki/Knapsack_problem)
+</p>
 
 Let’s consider you are going on a hiking trip and you want to carry some useful items in your knapsack (bag) for the trip. There are five items to choose from and you know the values (_v_) and weights (_w_) of all the items. Also, you cannot take all of them since the knapsack has a maximum weight capacity. So, now you have to decide which items to pick and which ones to leave out. The objective is to maximize the total value of the selected items while staying under the weight limit. Mathematically, the above-mentioned knapsack item selection problem will have the following form:
 
@@ -218,8 +221,8 @@ GA is an efficient tool to find optimal or near-optimal solutions to difficult p
 **6. References**
 =================
 
-* [Knapsack problem - Wikipedia](https://en.wikipedia.org/wiki/Knapsack_problem){target="_blank"}
-* [Integer programming - Wikipedia](https://en.wikipedia.org/wiki/Integer_programming){target="_blank"}
-* [How to Choose an Optimization Algorithm - Machine Learning Mastery](https://machinelearningmastery.com/tour-of-optimization-algorithms/){target="_blank"}
-* [Genetic Algorithms - Tutorialspoint](https://www.tutorialspoint.com/genetic_algorithms/index.htm){target="_blank"}
-* [pymoo: Multi-objective Optimization in Python](https://pymoo.org/index.html){target="_blank"}
+* [Knapsack problem - Wikipedia](https://en.wikipedia.org/wiki/Knapsack_problem){:target="_blank"}
+* [Integer programming - Wikipedia](https://en.wikipedia.org/wiki/Integer_programming){:target="_blank"}
+* [How to Choose an Optimization Algorithm - Machine Learning Mastery](https://machinelearningmastery.com/tour-of-optimization-algorithms/){:target="_blank"}
+* [Genetic Algorithms - Tutorialspoint](https://www.tutorialspoint.com/genetic_algorithms/index.htm){:target="_blank"}
+* [pymoo: Multi-objective Optimization in Python](https://pymoo.org/index.html){:target="_blank"}
