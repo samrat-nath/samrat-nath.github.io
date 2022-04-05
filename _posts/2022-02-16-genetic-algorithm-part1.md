@@ -11,7 +11,10 @@ tags:
 ---
 
 
-![](https://miro.medium.com/max/1400/1*EmvE2DLoByK6iVa4ZzWX9g.jpeg)[Photo Credit](https://spin.atomicobject.com/2017/10/09/genetic-algorithm-example/)
+![](https://miro.medium.com/max/1400/1*EmvE2DLoByK6iVa4ZzWX9g.jpeg)
+[Photo Credit](https://spin.atomicobject.com/2017/10/09/genetic-algorithm-example/)
+
+[Original Medium Blog Link](https://medium.com/walmartglobaltech/genetic-algorithm-demystified-part-1-776e0f53703f){:target="_blank"}
 
 Optimization refers to finding the values of inputs in such a way that we get the best output values. The set of all possible solutions or values which the inputs can take makes up the search space. The aim of optimization is to find a point or set of points in the search space that gives the optimal solution. Amid the buzz of machine learning, the importance of optimization is overlooked oftentimes. However, optimization is a key ingredient in the recipe of machine learning algorithms. It begins with defining some kind of loss/cost function and ends with minimizing that function. For example, in the least-square regression method, the goal is to obtain the best line of fit by minimizing the sum of the square of errors.
 
@@ -38,9 +41,12 @@ Here, the vector **_x_** of length _n_ is the decision variable of the optimizat
 Let’s take a well-known combinatorial optimization problem called the [‘0–1 Knapsack Problem’](https://en.wikipedia.org/wiki/Knapsack_problem) for example. This problem appears in a wide variety of real-world decision-making processes, such as resource allocation, selection of investments and portfolios, etc.
 
 <p align="center">
-![](https://miro.medium.com/max/642/1*K9N-UjGvmnzIsq6MiR8bGA.png)
+<img src = "https://miro.medium.com/max/642/1*K9N-UjGvmnzIsq6MiR8bGA.png">
+</p>
+<p align="center">
 [Image Credit: Wikipedia](https://en.wikipedia.org/wiki/Knapsack_problem)
 </p>
+
 
 Let’s consider you are going on a hiking trip and you want to carry some useful items in your knapsack (bag) for the trip. There are five items to choose from and you know the values (_v_) and weights (_w_) of all the items. Also, you cannot take all of them since the knapsack has a maximum weight capacity. So, now you have to decide which items to pick and which ones to leave out. The objective is to maximize the total value of the selected items while staying under the weight limit. Mathematically, the above-mentioned knapsack item selection problem will have the following form:
 
