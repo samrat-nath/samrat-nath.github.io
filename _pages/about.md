@@ -24,7 +24,7 @@ I received my Ph.D. degree in Electrical Engineering at the [University of Arkan
 I've 10+ years of combined multi-disciplinary experience in industry and academy as a data scientist with hands-on skills in sequential analysis, statistical signal processing, machine learning, optimization, reinforcement learning, and deep learning. 
 My effective project management, innovative idea generation, strong communication skills, and research oriented mindset has led to 1 US Patent, 6 journals, 10 conference proceedings, and 1 book chapter.
 
-I like travelling :sunrise_over_mountains:, cooking :plate_with_cutlery:, binge-watching tv shows and animes :tv:, playing RPGs :video_game:. I love football :soccer: and I'm a huge fan of Manchester United (GGMU). 
+I like travelling, cooking, binge-watching tv shows and animes, playing RPGs. I love football (soccer) and I'm a huge fan of Manchester United (GGMU). 
 
 Thanks for visiting my site!
 <img src='/images/colorado_mountaintop.jpg' width="972" height="409">
