@@ -39,7 +39,7 @@ Here, the vector **_x_** of length _n_ is the decision variable of the optimizat
 
 Let’s take a well-known combinatorial optimization problem called the [‘0–1 Knapsack Problem’](https://en.wikipedia.org/wiki/Knapsack_problem) for example. This problem appears in a wide variety of real-world decision-making processes, such as resource allocation, selection of investments and portfolios, etc.
 
-![]("https://miro.medium.com/max/642/1*K9N-UjGvmnzIsq6MiR8bGA.png")
+![](https://miro.medium.com/max/642/1*K9N-UjGvmnzIsq6MiR8bGA.png)
 
 [*Image Credit: Wikipedia*](https://en.wikipedia.org/wiki/Knapsack_problem)
 
