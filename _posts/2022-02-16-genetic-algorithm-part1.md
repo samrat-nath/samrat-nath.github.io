@@ -10,9 +10,8 @@ tags:
   - real-estate
 ---
 
-
 ![](https://miro.medium.com/max/1400/1*EmvE2DLoByK6iVa4ZzWX9g.jpeg)
-[Photo Credit](https://spin.atomicobject.com/2017/10/09/genetic-algorithm-example/)
+[*Photo Credit*](https://spin.atomicobject.com/2017/10/09/genetic-algorithm-example/)
 
 [Original Medium Blog Link](https://medium.com/walmartglobaltech/genetic-algorithm-demystified-part-1-776e0f53703f){:target="_blank"}
 
@@ -40,13 +39,9 @@ Here, the vector **_x_** of length _n_ is the decision variable of the optimizat
 
 Let’s take a well-known combinatorial optimization problem called the [‘0–1 Knapsack Problem’](https://en.wikipedia.org/wiki/Knapsack_problem) for example. This problem appears in a wide variety of real-world decision-making processes, such as resource allocation, selection of investments and portfolios, etc.
 
-<p align="center">
-<img src = "https://miro.medium.com/max/642/1*K9N-UjGvmnzIsq6MiR8bGA.png">
-</p>
-<p align="center">
-[Image Credit: Wikipedia](https://en.wikipedia.org/wiki/Knapsack_problem)
-</p>
+![]("https://miro.medium.com/max/642/1*K9N-UjGvmnzIsq6MiR8bGA.png")
 
+[*Image Credit: Wikipedia*](https://en.wikipedia.org/wiki/Knapsack_problem)
 
 Let’s consider you are going on a hiking trip and you want to carry some useful items in your knapsack (bag) for the trip. There are five items to choose from and you know the values (_v_) and weights (_w_) of all the items. Also, you cannot take all of them since the knapsack has a maximum weight capacity. So, now you have to decide which items to pick and which ones to leave out. The objective is to maximize the total value of the selected items while staying under the weight limit. Mathematically, the above-mentioned knapsack item selection problem will have the following form:
 
@@ -75,14 +70,17 @@ Hence, considering the complexity of real-world problem scenarios, gradient-free
 
 First, it is essential to be familiar with some basic terminology associated with genetic algorithms.
 
-![](https://miro.medium.com/max/1218/1*RbHFQy-UEpCvewfReDZCrA.png)GA terminology
+![](https://miro.medium.com/max/1218/1*RbHFQy-UEpCvewfReDZCrA.png)
 
+*GA terminology:*
 *   **Chromosome** − A chromosome is one particular solution to the given problem. The size of the chromosome is determined by the size of the decision variable **_x_**.
 *   **Gene** − A gene is one element position of a chromosome, i.e. a single element of the decision variable.
 *   **Allele** − It is the value a gene takes for a particular chromosome. For e.g., in the knapsack problem, the allele could be either 1 or 0.
 *   **Population** − It is a subset of all the possible solutions to the given problem. The population for a GA is analogous to the population for human beings in the sense that a candidate solution can be represented as an individual. One important parameter for the GA is the `population_size` which is influenced by the complexity of the problem. The same size of the population is maintained throughout all the generations. The more parameters we need to optimize, the larger the population is preferred.
 
-![](https://miro.medium.com/max/650/1*sUD1UxSC1mz8xdptPS5UCQ.png)Flowchart of the genetic algorithm process
+![](https://miro.medium.com/max/650/1*sUD1UxSC1mz8xdptPS5UCQ.png)
+
+*Flowchart of the genetic algorithm process*
 
 **Population Initialization:** There are two initialization methods-
 
@@ -129,7 +127,9 @@ For demonstrating how to implement a genetic algorithm using python packages, we
 1.  Length of variable is determined only by the number of locations such that **_x_** = \[_x\_1, x\_2, …, x\_NUM\_LOC_\], where _x\_k_ denotes the decision for _k_\-th location. The possible values of _x\_k_ is dependent on the number of formats, such that _x\_k_ could take any integer value between 0 and `NUM_FMT`. For example, _x\_k=0_ means that _k_\-th location is not selected, _x\_k=1_ means _k_\-th location is selected for building store for format #1, and so on. This approach will turn the problem to be “integer programming”.
 2.  If we want to frame the problem as “0–1 integer programming” just like the knapsack example, then we’ll have to encode our input (candidate solution) as shown below. As a result, the length of **_x_** = `NUM_LOC*NUM_FMT` . For the sake of this example, let’s adopt this approach.
 
-![](https://miro.medium.com/max/1068/1*P3WqfGOPjnTvzYUJ_NkZOQ.png)Encoding of a sample solution from two-dimensional decision to one-dimension
+![](https://miro.medium.com/max/1068/1*P3WqfGOPjnTvzYUJ_NkZOQ.png)
+
+*Encoding of a sample solution from two-dimensional decision to one-dimension*
 
 The problem takes four (4) financial estimations into consideration as inputs- sales, costs, net present value, and cannibalization impact of building a particular store format in a given location. Keeping consistent with the structure of our decision variable, we also need to encode our financial variables as a one-dimensional array.
 
