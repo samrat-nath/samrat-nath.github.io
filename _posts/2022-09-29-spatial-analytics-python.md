@@ -37,16 +37,15 @@ Obtaining such insights are valuable which makes spatial data skills a great add
 **1.1.**  **Vector Data**
 
 Vector data represent geometries in the world. When you open a navigation map, you see vector data. The road network, the buildings, the restaurants, and ATMs are all vectors with their associated attributes. Vector data is simply a collection of discrete locations ((x, y) values) called “vertices” that define one of three shapes:
-
 -   **Point**: a single (x, y) point. Like the location of your house.
 -   **Line**: two or more connected (x, y) points. Like a road.
 -   **Polygon**: three or more (x, y) points connected and closed. Like a lake, or the border of a country.
 
-*Shapes of different vector data:*
 ![](https://miro.medium.com/v2/resize:fit:700/1*LdKZXbs3pZ5wlsFXKMrWWA.png)
 
-Vector data is commonly stored in a “shapefile” format. A shapefile is composed of three required files with the same prefix (here, ‘spatial-data’) but different extensions:
+*Shapes of different vector data*
 
+Vector data is commonly stored in a “shapefile” format. A shapefile is composed of three required files with the same prefix (here, ‘spatial-data’) but different extensions:
 -   _spatial-data.shp_: main file that stores records of each shape geometries
 -   _spatial-data.shx_: index of how the geometries in the main file relate to one-another
 -   _spatial-data.dbf_: attributes of each record
@@ -57,8 +56,9 @@ There are other file-types for storing vector data too like geojson. These files
 
 In this article, we will be primarily using open-source python library called  [geopandas](https://geopandas.org/getting_started/introduction.html)  to work with vector data in python. Geopandas extends the  [pandas](https://pandas.pydata.org/pandas-docs/stable/)  capabilities to geospatial data and leverages the capabilities of  [shapely](https://shapely.readthedocs.io/en/stable/manual.html)  to perform geometric operations on spatial data. Geopandas depends on  [fiona](https://fiona.readthedocs.io/en/latest/manual.html)  for file access and matplotlib for plotting. Key datatypes used in geopandas are GeoSeries and GeoDataFrame like Series and DataFrames from Pandas. GeoDataFrames contain geometric column generally called as ‘geometry’. Geometry column contains different geometries like points (latitudes and longitudes), lines, polygons, etc., as shapely objects. Below is schematic view of a GeoDataFrame.
 
-*Data format of a typical geodataframe:*
 ![](https://miro.medium.com/v2/resize:fit:448/1*36KyfoSncD9306zt8bwgOQ.png)
+
+*Data format of a typical geodataframe*
 
 Next, we will explore some examples of geospatial operations by analyzing a dataset on US fast food restaurants.
 
@@ -137,5 +137,4 @@ Goal of this article was to introduce the concept of geospatial analysis, geopan
 - [Folium](https://python-visualization.github.io/folium/?source=post_page-----44e92b4af362---------------------------------------)
 - [Fast Food Restaurants Across America](https://www.kaggle.com/datasets/datafiniti/fast-food-restaurants?select=FastFoodRestaurants.csv&source=post_page-----44e92b4af362---------------------------------------)
 - [OpenStreetMap](http://openstreetmap.org/?source=post_page-----44e92b4af362---------------------------------------)
-
 - [EPSG.io: Coordinate Systems Worldwide](https://epsg.io/?source=post_page-----44e92b4af362---------------------------------------)
