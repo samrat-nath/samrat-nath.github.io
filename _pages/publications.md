@@ -19,11 +19,13 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=bK16_G4AAAAJ&hl=en){:target="_blank"} profile.
 
 ## Patetnts
+
 [P2] (*Under Review*) **S. Nath**, V. Patel, S. Madbhavi, et al., "Systems and Methods for Photovoltaic Power Environment Deployment", Jan 2026.
 
 [P1] R. Angadala, **S. Nath**, V. Johansen, J. Jacob, et al., ["Systems and Methods for Simulation Optimization of Production Networks"](https://patents.google.com/patent/US20250245682A1/en?oq=US20250245682A1){:target="_blank"}, US Patent No. 18/428,941, Jul 2025.
 
 ## Journal Papers:
+
 [J6] **S. Nath** and J. Wu, [“Quickest Change Point Detection with Multiple Post-change Models”](https://www.tandfonline.com/doi/abs/10.1080/07474946.2020.1826795){:target="_blank"} in *Sequential Analysis: Design Methods and Applications*, vol. 39, pp. 543 - 562, Oct. 2020, doi: 10.1080/07474946.2020.1826795. 
 
 [J5] **S. Nath** and J. Wu, ["Online Battery Scheduling for Grid-connected Photo-Voltaic Systems"](https://www.sciencedirect.com/science/article/pii/S2352152X20315504?dgcid=author){:target="_blank"} in *Journal of Energy Storage*, vol. 31, pp. 101713, Oct. 2020.
@@ -37,6 +39,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 [J1] **S. Nath**, J. Wu, and J. Yang, ["Delay and Energy Efficiency Tradeoff for Information Pushing System"](https://ieeexplore.ieee.org/document/8382314/){:target="_blank"}, in *IEEE Transactions on Green Communications and Networking*, vol. 2, no. 4, pp. 1027-1040, Dec. 2018. 
 
 ## Conference Papers:
+
 [C10] M. Singh, V. Patel, R. Kumar, **S. Nath**, and A. Mishra, ["Machine Learning Driven Performance Benchmarking for Energy Efficiency"](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/AIMLSYSTEMS2023/30/1b42f773-b389-11ee-8ef9-16bb50361d1f/OUT/aimlsystems2023-30.html){:target="_blank"}, in *The 3rd International Conference on Artificial Intelligence and Machine Learning Systems*, October 25–28, 2023, Bangalore, India.
 
 [C9] **S. Nath** and J. Wu, ["Dynamic Computation Offloading and Resource Allocation for Multi-user Mobile Edge Computing"](https://ieeexplore.ieee.org/document/9348161){:target="_blank"}, in *IEEE Global Communications Conf. (Globecom)*, 7-11 Dec. 2020, Taipei, Taiwan.
@@ -58,4 +61,5 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
  [C1] R. Nath, F. S. Rahman,  **S. Nath**, S. Basak, S. I. Audin, and S. A. Fattah, ["Lip contour extraction scheme using morphological reconstruction based segmentation"](https://ieeexplore.ieee.org/document/6919175){:target="_blank"}, in *Proc. International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*, 10-12 April 2014, Dhaka, Bangladesh.
 
  ## Book Chapters:
+ 
  [BC1] **S. Nath** and J. Wu, ["Dynamic computation offloading and resource allocation in cache assisted mobile edge computing systems"](https://books.google.com/books/about/Edge_Caching_for_Mobile_Networks.html?id=jz8yzgEACAAJ), *Edge Caching for Mobile Networks*, vol. 96, pp. 729–750, edited by W. Chen and H. Poor, Institution of Engineering and Technology, Dec 22, 2021.
