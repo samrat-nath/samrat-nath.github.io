@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 **PDF Links**
+- [Resume (shorter version)](https://samrat-nath.github.io/files/Resume_Samrat_Nath.pdf){:target="_blank"}
 - [CV (longer version)](https://samrat-nath.github.io/files/CV_Samrat_Nath_Nov21.pdf){:target="_blank"}
-- [Resume (shorter version)](https://samrat-nath.github.io/files/Resume_Samrat_Nath_2023.pdf){:target="_blank"}
 
 Education
 ======
