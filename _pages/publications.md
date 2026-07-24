@@ -20,9 +20,9 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Patetnts
 
-[P2] (*Under Review*) **S. Nath**, V. Patel, S. Madbhavi, et al., "Systems and Methods for Photovoltaic Power Environment Deployment", Jan 2026.
+[P2] (*Filed*) **S. Nath**, V. Patel, S. Madbhavi, et al., "Systems and Methods for Photovoltaic Power Environment Deployment", US Patent Application No. 19/539424, Feb 2026.
 
-[P1] R. Angadala, **S. Nath**, V. Johansen, J. Jacob, et al., ["Systems and Methods for Simulation Optimization of Production Networks"](https://patents.google.com/patent/US20250245682A1/en?oq=US20250245682A1){:target="_blank"}, US Patent Application No. 18/428,941, Jul 2025.
+[P1] R. Angadala, **S. Nath**, V. Johansen, J. Jacob, et al., ["Systems and Methods for Simulation Optimization of Production Networks"](https://patents.google.com/patent/US20250245682A1/en?oq=US20250245682A1){:target="_blank"}, US Patent Application No. 18/428941, Jul 2025.
 
 ## Journal Papers
 
